@@ -25,7 +25,7 @@ Link to Lookup table and palette: https://jjphillips2.github.io/gis-portfolio/Ph
 
 # JSON file
 
-Link to JSON file: 
+Link to JSON file: https://jjphillips2.github.io/gis-portfolio/TEPMapJSON.json
 
 # Reflection and Adjustments
 
