@@ -17,7 +17,7 @@ Link to Dynamic Map: https://jjphillips2.github.io/gis-portfolio/tep_google_map_
 
 # Screenshots
 
-
+Link to screenshots with descriptions: https://jjphillips2.github.io/gis-portfolio/Phillips_Adv_GIS_Screenshots.pdf
 
 # Look up table
 
