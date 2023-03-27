@@ -1,0 +1,22 @@
+## The Education Partnership Partner School Map
+
+#Description: Below are the requested materials by the client (The Education Partnership) to implement an interactive map to their website. Below are the bid, html page to view the map, map style, screenshots of the map from different zoom levels, lookup table, and json file. 
+
+## Bid
+
+
+
+# HTML Page and Dynamic Map
+
+Link to Dynamic Map: https://jjphillips2.github.io/gis-portfolio/tep_google_map_style.html
+
+# Map Style and Pallette
+
+# Screenshots
+
+# Look up table
+
+# JSON file
+
+# Reflection and Adjustments
+
