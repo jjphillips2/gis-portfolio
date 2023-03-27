@@ -4,7 +4,7 @@
 
 ## Bid
 
-
+Link to Bid: https://jjphillips2.github.io/gis-portfolio/Phillips_AdvGIS_HW1.pdf
 
 # HTML Page and Dynamic Map
 
@@ -12,11 +12,19 @@ Link to Dynamic Map: https://jjphillips2.github.io/gis-portfolio/tep_google_map_
 
 # Map Style and Pallette
 
+
+
 # Screenshots
+
+
 
 # Look up table
 
+
+
 # JSON file
+
+
 
 # Reflection and Adjustments
 
