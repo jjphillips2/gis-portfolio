@@ -14,7 +14,12 @@ Below is a link to the dynamic map to explore and ensure that the product meets 
 Link to Dynamic Map: https://jjphillips2.github.io/gis-portfolio/tep_google_map_style.html
 
 To embed this map to your website:
+1. Sign up for a Google Maps API key if one does not already exist. Instructions are on the Google Maps Platform website. (Note: Phillips Consulting's API Key was used for the construction of the dynamic map. This will be active for 3 days after delivery of the map and then access will be rescinded. Any queries above $100 worth will be charged to the client)
+2. Use the sample html file linked above and edit the Title section (line ), import the json file in the appropriate area, and replace the existing API key with your organization's key)
+3. save the file and open in a web browser to view that your map is visible
+4. Integrate the html code into your website in the appropriate location.
 
+*Note: Phillips Consulting offers a free 30-day customer service support line to aid in any conflicts. The number to call is (412) 783 - 8927.
 
 # Map Style
 Below is the link to the map style, along with the explanations for each style choice.
