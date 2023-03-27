@@ -1,6 +1,6 @@
 # The Education Partnership Partner School Map
 
-## Description: 
+### Description: 
 Below are the requested materials by the client (The Education Partnership) to implement an interactive map to their website. Below are the bid, html page to view the map, map style, screenshots of the map from different zoom levels, lookup table, and json file. Additional information about usage of materials are also included.
 
 ## Bid
