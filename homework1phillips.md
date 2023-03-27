@@ -13,7 +13,7 @@ Link to Dynamic Map: https://jjphillips2.github.io/gis-portfolio/tep_google_map_
 
 # Map Style
 
-
+Link to Map Style: https://jjphillips2.github.io/gis-portfolio/Phillips_AdvGIS_HW1_MapStyle%20_StyleChoices.pdf
 
 # Screenshots
 
@@ -25,7 +25,7 @@ Link to Lookup table and palette: https://jjphillips2.github.io/gis-portfolio/Ph
 
 # JSON file
 
-
+Link to JSON file: 
 
 # Reflection and Adjustments
 
