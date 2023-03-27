@@ -19,7 +19,7 @@ To embed this map to your website:
 3. save the file and open in a web browser to view that your map is visible
 4. Integrate the html code into your website in the appropriate location.
 
-*Note: Phillips Consulting offers a free 30-day customer service support line to aid in any conflicts. The number to call is (412) 783 - 8927.
+* Note: Phillips Consulting offers a free 30-day customer service support line to aid in any conflicts. The number to call is (412) 783 - 8927.
 
 # Map Style
 Below is the link to the map style, along with the explanations for each style choice.
