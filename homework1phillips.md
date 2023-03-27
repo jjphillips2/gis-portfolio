@@ -44,3 +44,14 @@ Link to JSON file: https://jjphillips2.github.io/gis-portfolio/TEPMapJSON.json
 
 ## Reflection and Adjustments
 
+This project was a great exercise after the initial project management assignment. The times that I originally planned for that changed were the construction of the map and the compiling of the materials. The map construction was originally going to take 4 hrs but it was done in 2 hours. This was due to the ease by which the wizard was to navigate. The compilation of materials for the client was originally going to take 1.5 hours, but ended up taking an extra hour. The formatting and quality checks ended up taking longer than expected. This will be noted in the future for clients, but overall the original bid was for $1,100.00 and the adjusted bid was for $1,000.00. Even though the estimates were over and under shot in different areas, the overall project still came in under the original bid and under the budge of the organization.
+
+I tried to implement a "sweetner" for this assignment by giving the free support service to all clients. While this will probably win clients in the long run, more analysis would have to be done to measure the value of this service versus business generated. A survey could be sent to clients to find out why they chose us for our services. 
+
+The overall workflow was as follows:
+1. Color Palette Generation: This took the projected amount of time as the right image from their website had to be extracted. Edits needed to be made to that image and then imported into the generator
+2. Base Map Creation: As stated above, the amount of time this took was less than expected. The colors from the palette were implemented into the Google Wizard Styler. I was lucky that the combination I chose early on ended up being the best from my perspective. I did not want to use "Moon Mist" as the main layer color as the original map would then look like the default Google Map Style.
+3. Quality Check: Checks were done to ensure that, all features were colored, zoom levels still displayed the information clearly, and uniformity was used throughout the map.
+4. Material Creation: This included the steps necessary to embed the map onto the website and the presentation of documents. This took longer than anticipated, but this is reflected in the bid. 
+
+Overall I believe this map creates great value for TEP and would generate more donations and partnerships for the organization.
