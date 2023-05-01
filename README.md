@@ -8,3 +8,6 @@ I earned my Bachelor's in Mathematics and Economics from the University of Alaba
 I hope to be able to use GIS techniques to tell clearer stories with the data I am presented. I am also interested in creating project bids as this will become useful in any career I may take on. I also hope to learn ways to make maps more engaging and interactive. In my current role, I struggle to find new and creative ways to represent both structured and unstructured data. I hope this course will introduce new perspectives on how to think of which visuals are most appropriate.
 
 # Portfolio
+Combatting Heat Islands In the Bronx
+Description: Heat islands are urban areas that experience higher temperatures than surrounding rural areas due to human activities, such as buildings, transportation, and industrial processes, that alter the surface properties of the environment.
+Link: https://arcg.is/1qrXna
